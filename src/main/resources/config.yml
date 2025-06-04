@@ -1,0 +1,23 @@
+brewingStandDisplayName: "Hookah"
+bambooDisplayName: "Hookah Mouthpiece"
+
+message:
+  alreadyTaken: "<red>The mouthpiece has already been taken from this stand.</red>"
+  alreadyHaveBamboo: "<yellow>You already have a hookah mouthpiece.</yellow>"
+  giveBamboo: "<green>You have received a hookah mouthpiece. Use it to smoke.</green>"
+  wait: "<gold>Please wait before taking the next puff.</gold>"
+  puff: "<aqua>You took a puff from the hookah.</aqua>"
+  bambooDropped: "<gray>The hookah mouthpiece has been returned to the hookah.</gray>"
+
+# Crafting
+recipe:
+  brewingStand:
+    shape:
+      - " B "
+      - " S "
+      - " B "
+
+    ingredients:
+      B: "BAMBOO"
+      S: "BREWING_STAND"
+      #....
