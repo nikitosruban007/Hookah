@@ -1,4 +1,7 @@
-package org.narvania.hookah;
+
+
+
+package nikitosruban007.hookah;
 
 import net.kyori.adventure.audience.Audience;
 import net.kyori.adventure.text.Component;
