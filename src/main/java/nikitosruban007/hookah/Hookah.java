@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2025 Ivan Ivanov
+ * Copyright (c) 2025 nikitosruban007_
  *
  * Licensed under the MIT License.
  * See LICENSE file for details.
