@@ -1,4 +1,11 @@
-package org.narvania.hookah;
+/*
+ * Copyright (c) 2025 Ivan Ivanov
+ *
+ * Licensed under the MIT License.
+ * See LICENSE file for details.
+ */
+
+package nikitosruban007.hookah;
 
 import net.kyori.adventure.audience.Audience;
 import net.kyori.adventure.text.Component;
