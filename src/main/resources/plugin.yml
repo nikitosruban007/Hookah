@@ -1,4 +1,4 @@
 name: Hookah
 version: '1.0-SNAPSHOT'
 main: nikitosruban007.hookah.Hookah
-api-version: '1.21'
+api-version: '1.21.4'
